@@ -120,7 +120,8 @@ function construitListe(window)
         {anglais: 'lolcat', francais: 'chatmusant'},
         {anglais: 'smartphone', francais: 'malinphone'},
         {anglais: 'walled garden', francais: 'jardin secret, communauté prison'},
-        {anglais: 'favicon', francais: 'favorimage'}
+        {anglais: 'favicon', francais: 'favorimage'},
+        {anglais: 'ASCII', francais: 'clé de cul'}
     ];
 
     function cache(e)
